@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257215183698",
+    "firebase_url": "https://yoway-57ec8.firebaseio.com",
+    "project_id": "yoway-57ec8",
+    "storage_bucket": "yoway-57ec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257215183698:android:f5358f8655cac8a5",
+        "android_client_info": {
+          "package_name": "com.example.admin.yoway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257215183698-2saark175ldh8vnk4ot4sde465lk6srd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.yoway",
+            "certificate_hash": "c17803cca65d196118198f89d2700e925d77ba3e"
+          }
+        },
+        {
+          "client_id": "257215183698-prj4j1kg2t7ev7of4neld7intss91r2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ9kZopQUtwIxKNugFPCc6RyX93Zm4Pzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257215183698-prj4j1kg2t7ev7of4neld7intss91r2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

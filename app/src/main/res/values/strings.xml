@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yo Way</string>
+    <string name="title_home">Home</string>
+    <string name="title_time_table">Time Table</string>
+    <string name="title_fare">Fare</string>
+    <string name="title_near">Near By</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_near_by">Map</string>
+    <string name="title_activity_home">Map</string>
+</resources>
